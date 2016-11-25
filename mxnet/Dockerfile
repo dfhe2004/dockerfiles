@@ -15,4 +15,5 @@ RUN apt-get update && apt-get install -y \
   python-numexpr \
   python-skimage \
   python-pil \
+  ipython \
    > /dev/null
